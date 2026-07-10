@@ -294,20 +294,7 @@ npm run preview
 
 ---
 
-# 📸 Screenshots
 
-> Add screenshots here after completing the project.
-
-- Landing Page
-- Dashboard
-- Physical Servers
-- Virtual Machines
-- Monitoring
-- Reports
-- Alerts
-- Analytics
-
----
 
 # 🔒 Security
 
